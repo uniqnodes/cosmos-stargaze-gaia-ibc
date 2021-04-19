@@ -75,3 +75,7 @@ balances için şöyle bir veri varsa işlem tamamdır
 ```  
 
 * Kanıtlar onchain yapılıyor başka bir işleme gerek yok.
+
+## Kaynaklar  
+https://www.notion.so/Phase-3-Challenge-b8790822c6074d21a04979dbecc76217  
+https://github.com/cosmos/relayer#basic-usage  
